@@ -1,6 +1,6 @@
 ![MasterHead](https://openseauserdata.com/files/84dada0a5dcfd790700df3dd87897aef.gif)
 <h1 align="center">Hi 👋, I'm Avaneesh</h1>
-<h3 align="center">A passionate Mech. Eng. undergrad from India studying at NUS, Singapore</h3>
+<h3 align="center">Mech. Eng. + Innovation and Design undergraduate from India studying at NUS, Singapore</h3>
 <img align="right" alt="Star Wars" width="400" src="https://cdn.dribbble.com/users/130603/screenshots/2290997/lukeboba_02.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avaneesh2227&label=Profile%20views&color=0e75b6&style=flat" alt="avaneesh2227" /> </p>
